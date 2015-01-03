@@ -1,7 +1,8 @@
 SVG2Image
 =========
 
-export svg to image file
+export svg to image file. <br/>
+NOTE: This project hasn't be tested
 
 Usage
 =========
