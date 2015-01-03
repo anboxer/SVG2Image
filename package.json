@@ -1,0 +1,11 @@
+{
+    "name": "svg2image",
+    "version": "0.1.0",
+	"description":"Export SVG to image.",
+    "devDependencies": {
+        "grunt": "*",
+        "grunt-contrib-watch": "*",
+        "grunt-contrib-connect": "*",
+        "load-grunt-tasks": "*"
+    }
+}
