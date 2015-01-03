@@ -6,21 +6,21 @@ NOTE: This project hasn't be tested
 
 Usage
 =========
-svg2image({
-	src: svg,
-	dest: '',
-	width: 100,
-	height: 400
-});
-
-##option.src
+svg2image({<br/>
+	src: svg,<br/>
+	dest: '',<br/>
+	width: 100,<br/>
+	height: 400<br/>
+});<br/>
+please see src/index.html
+###option.src
 svg DOM element
 
-##option.dest
+###option.dest
 name of image, default is ISO Date formater
 
-##option.width
+###option.width
 image's width
 
-##option.height
+###option.height
 image's height
