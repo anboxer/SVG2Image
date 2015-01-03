@@ -12,14 +12,14 @@ svg2image({
 	height: 400
 });
 
-option.src
+##option.src
 svg DOM element
 
-option.dest
+##option.dest
 name of image, default is ISO Date formater
 
-option.width
+##option.width
 image's width
 
-option.height
+##option.height
 image's height
