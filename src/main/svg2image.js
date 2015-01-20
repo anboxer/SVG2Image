@@ -116,7 +116,7 @@
     	var dataUri = '';
     	
     	try{
-    		dataUri = 'data:image/svg+xml;base64,' + btoa(svgData);
+    		dataUri = 'data:image/svg+xml;base64,' + btoa(unescape(encodeURIComponent(svgData)));
     	}catch (ex) {
     		console.log(ex);
     	}
